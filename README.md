@@ -1,0 +1,1 @@
+This is where I study a little how to read csv files in Java and use the content within a project.
